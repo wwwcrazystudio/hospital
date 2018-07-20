@@ -1,0 +1,7 @@
+
+@import "_mixins/font-face";
+
+@include font-face("Ubuntu-Light", "../fonts/Ubuntu-Light/Ubuntu-Light");
+@include font-face("Ubuntu-LightItalic", "../fonts/Ubuntu-LightItalic/Ubuntu-LightItalic");
+@include font-face("Ubuntu-Bold", "../fonts/Ubuntu-Bold/Ubuntu-Bold");
+@include font-face("UbuntuRegular", "../fonts/UbuntuRegular/UbuntuRegular");
